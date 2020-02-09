@@ -1,6 +1,9 @@
-# Awesome Nomad Resources
+# Awesome Nomad Resources [![Awesome](
+(https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/bt3gl/Awesome-Digital-Nomad)
 
-A curated repository on everything you need to become a diginal nomad.
+
+A curated repository on everything you need to become a diginal nomad. See how to contribute [here](https://github.com/bt3gl/Awesome_Entrepreneur/blob/master/contributing.md).
+
 
 
 
