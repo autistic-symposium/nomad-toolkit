@@ -4,7 +4,7 @@ A curated repository on everything you need to become a diginal nomad.
 
 
 
-# Full-time jobs
+# Finding a Remote Job
 
 ## Remote only job search platforms
 
@@ -26,6 +26,7 @@ A curated repository on everything you need to become a diginal nomad.
 * [The Dots](https://the-dots.com/).
 * [CareerBuilder](https://www.careerbuilder.com/).
 * [Mogul](https://onmogul.com/jobs).
+* [BuiltinLA](https://www.builtinla.com/).
 * [Women who code](https://www.womenwhocode.com/jobs).
 * [Unicorn Hunt](https://unicornhunt.io/).
 * [Indeed](https://www.indeed.com/jobs).
@@ -33,13 +34,23 @@ A curated repository on everything you need to become a diginal nomad.
 * [The Muse](https://www.themuse.com/). 
 
 
----
 
 # Freelancing
 
-* [78 Best Freelance Jobs Websites to Get Remote Freelance Work in 2020](https://www.ryrob.com/freelance-jobs/#development).
+* [Guru](https://www.guru.com/).
+* [Upwork](https://www.upwork.com/).
+* [Fiverr](https://www.fiverr.com/).
+* [Freelancer](https://www.freelancer.com/).
+* [Freelancer Map](https://www.freelancermap.com/).
 * [Toptal](https://www.toptal.com/).
+* [Virtual Vacations](https://www.virtualvocations.com/jobs).
+* [78 Best Freelance Jobs Websites to Get Remote Freelance Work in 2020](https://www.ryrob.com/freelance-jobs/#development).
 
+
+
+## Tools and Resources
+
+* [Latex Resume builder](https://www.overleaf.com/login).
 
 --- 
 <a href="https://www.buymeacoffee.com/miavonpizza" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/arial-pink.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
