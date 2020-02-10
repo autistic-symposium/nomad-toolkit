@@ -9,7 +9,7 @@ See how to contribute [here](https://github.com/bt3gl/Awesome_Entrepreneur/blob/
 
 # Finding a Remote Job
 
-## Remote only job search platforms
+## Remote-only job search platforms
 
 * [We work remote](https://weworkremotely.com/).
 * [Working Nomad](https://www.workingnomads.co/jobs).
