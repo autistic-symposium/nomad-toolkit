@@ -15,10 +15,22 @@ See how to contribute [here](https://github.com/bt3gl/Awesome_Entrepreneur/blob/
 * [Working Nomad](https://www.workingnomads.co/jobs).
 * [Power to fly](https://powertofly.com/jobs/).
 * [Remote.io](https://remotive.io/)
-* [900+ Startups hiring Remotely in 2020](https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/edit#gid=1279011369).
-* [Awesome Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job#job-boards).
 * [Data Science remote](https://dsremote.work/).
-* [60 Best Remote Jobs Websites to Find a Great Remote Job (Fast) in 2020](https://www.ryrob.com/remote-jobs-websites/).
+* [Remote.co](https://remote.co/).
+* [Job Expresso](https://jobspresso.co/).
+* [Remote OK](https://remoteok.io/).
+* [Cloud Peeps](https://www.cloudpeeps.com/).
+* [Outsourcely](https://www.outsourcely.com/).
+* [Remotees](https://remotees.com/).
+* [Remote 4 me](https://remote4me.com/).
+* [Remote Awesome Jons](https://www.remotelyawesomejobs.com/).
+* [Werk](https://werk.co/).
+* [Telecomute jobs](https://100telecommutejobs.com/telejobs/).
+* [Workwe](https://workew.com/).
+* [Skip the Drive](https://www.skipthedrive.com/).
+* [900+ Startups hiring Remotely in 2020](https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/edit#gid=1279011369).
+
+
 
 
 ## Job search platforms
@@ -35,6 +47,9 @@ See how to contribute [here](https://github.com/bt3gl/Awesome_Entrepreneur/blob/
 * [Indeed](https://www.indeed.com/jobs).
 * [Linkedin Profinder](https://www.linkedin.com/profinder).
 * [The Muse](https://www.themuse.com/). 
+* [Flex jobs](https://www.flexjobs.com/).
+* [Hubstaff](https://talent.hubstaff.com/).
+
 
 
 
@@ -47,7 +62,8 @@ See how to contribute [here](https://github.com/bt3gl/Awesome_Entrepreneur/blob/
 * [Freelancer Map](https://www.freelancermap.com/).
 * [Toptal](https://www.toptal.com/).
 * [Virtual Vacations](https://www.virtualvocations.com/jobs).
-* [78 Best Freelance Jobs Websites to Get Remote Freelance Work in 2020](https://www.ryrob.com/freelance-jobs/#development).
+* [Solid Gigs](https://solidgigs.com/).
+* [Writing gigs](https://www.contena.co/?ref=16060&subid=).
 
 
 
