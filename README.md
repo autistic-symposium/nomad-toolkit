@@ -31,6 +31,7 @@ See how to contribute [here](https://github.com/bt3gl/Awesome_Entrepreneur/blob/
 * [European remotely](https://europeremotely.com/).
 * [Blockchain jobs](https://blocktribe.com/)
 * [More blockchain jons](https://cryptojobslist.com/).
+* [Even more blockchain jobs](https://crypto-job.com/).
 * [900+ Startups hiring Remotely in 2020](https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/edit#gid=1279011369).
 
 
