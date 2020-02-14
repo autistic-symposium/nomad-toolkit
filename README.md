@@ -15,7 +15,7 @@ See how to contribute [here](https://github.com/bt3gl/Awesome_Entrepreneur/blob/
 * [Working Nomad](https://www.workingnomads.co/jobs).
 * [Power to fly](https://powertofly.com/jobs/).
 * [Remote.io](https://remotive.io/)
-* [Data Science remote](https://dsremote.work/).
+* [Daily remote](https://dailyremote.com/).
 * [Remote.co](https://remote.co/).
 * [Job Expresso](https://jobspresso.co/).
 * [Remote OK](https://remoteok.io/).
@@ -29,10 +29,22 @@ See how to contribute [here](https://github.com/bt3gl/Awesome_Entrepreneur/blob/
 * [Workwe](https://workew.com/).
 * [Skip the Drive](https://www.skipthedrive.com/).
 * [European remotely](https://europeremotely.com/).
+* [Who is Hiring](https://whoishiring.io/).
+* [Startups.jobs](https://startup.jobs/).
+* [FOSS jobs](https://www.fossjobs.net/).
+* [Relocate](https://relocate.me/).
+* [900+ Startups hiring Remotely in 2020](https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/edit#gid=1279011369).
+
+#### Engineering specific
+
+* [Python jobs](https://www.python.org/jobs/).
+* [Django jobs](https://djangojobs.net/jobs/).
+* [Data Science remote](https://dsremote.work/).
 * [Blockchain jobs](https://blocktribe.com/)
 * [More blockchain jons](https://cryptojobslist.com/).
 * [Even more blockchain jobs](https://crypto-job.com/).
-* [900+ Startups hiring Remotely in 2020](https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/edit#gid=1279011369).
+* [DevOps Jobs](https://jobsfordevops.com/).
+
 
 
 
