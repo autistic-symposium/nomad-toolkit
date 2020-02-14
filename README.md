@@ -44,6 +44,7 @@ See how to contribute [here](https://github.com/bt3gl/Awesome_Entrepreneur/blob/
 * [More blockchain jons](https://cryptojobslist.com/).
 * [Even more blockchain jobs](https://crypto-job.com/).
 * [DevOps Jobs](https://jobsfordevops.com/).
+* [Hacker X](https://hackerx.org/jobs/).
 
 
 
@@ -80,6 +81,7 @@ See how to contribute [here](https://github.com/bt3gl/Awesome_Entrepreneur/blob/
 * [Virtual Vacations](https://www.virtualvocations.com/jobs).
 * [Solid Gigs](https://solidgigs.com/).
 * [Writing gigs](https://www.contena.co/?ref=16060&subid=).
+
 
 
 
