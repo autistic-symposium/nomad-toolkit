@@ -98,6 +98,8 @@ See how to contribute [here](https://github.com/bt3gl/Awesome_Entrepreneur/blob/
 
 # Lodging and Communal living
 
+## Nomad Communities
+
 * [Common](https://www.common.com/).
 * [Coworking in the sun](https://www.coworkinginthesun.com/).
 * [Hive Arena](https://hivearena.com/coworking/).
@@ -113,6 +115,36 @@ See how to contribute [here](https://github.com/bt3gl/Awesome_Entrepreneur/blob/
 * [The surf office](https://www.thesurfoffice.com/).
 * [Curacao working](http://www.workfromcuracao.com/).
 * [World packers](https://www.worldpackers.com/).
+
+## Beyond Airbnb
+
+* [VRBO](https://www.vrbo.com/).
+* [20 Mission](http://www.20mission.com/).
+* [Agoda](https://www.agoda.com/).
+* [Habyt](https://www.habyt.com/).
+* [Sun and co](https://sun-and-co.com/).
+* [The Student hotel](https://www.thestudenthotel.com/).
+* [Nomad Rental](https://nomadrental.com/).
+* [Coliving hotel](https://startupbasecamp.org/).
+* [Oasis Collections](https://www.oasiscollections.com/).
+* [Secret spaces](https://us.secretescapes.com/).
+* [BenDesk](https://www.bedndesk.com/).
+* [We Live](https://www.welive.com/).
+
+### Spiritual
+
+* [Dharma Light](http://www.dharmahealingintl.com/).
+* [Hridaya](https://hridaya-yoga.com/).
+* [Retreat in Bali](https://www.theyogabarn.com/retreat-in-bali).
+* [Orion Healing](https://www.orionhealing.com/).
+
+
+----
+
+# Coworking Spaces
+
+* [Coworker](https://www.coworker.com/).
+* [Opendoor](https://opendoor.io/).
 
 
 
