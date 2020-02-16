@@ -6,10 +6,11 @@ See how to contribute [here](https://github.com/bt3gl/Awesome_Entrepreneur/blob/
 
 
 
+----------
 
 # Finding a Remote Job
 
-## Remote-only job search platforms
+### Remote-only job search platforms
 
 * [We work remote](https://weworkremotely.com/).
 * [Working Nomad](https://www.workingnomads.co/jobs).
@@ -39,7 +40,7 @@ See how to contribute [here](https://github.com/bt3gl/Awesome_Entrepreneur/blob/
 * [Remote people](https://remotepeople.io/).
 * [900+ Startups hiring Remotely in 2020](https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/edit#gid=1279011369).
 
-## Remote Engineering Jobs
+### Remote Engineering Jobs
 
 * [Python jobs](https://www.python.org/jobs/).
 * [Python remote](https://www.remotepython.com/).
@@ -53,7 +54,7 @@ See how to contribute [here](https://github.com/bt3gl/Awesome_Entrepreneur/blob/
 * [AI and ML jobs](https://jobhunt.ai/).
 
 
-## Job search platforms
+### Job search platforms
 
 * [Angel.co](https://angel.co/jobs).
 * [Authentic jobs](https://authenticjobs.com/).
@@ -72,7 +73,7 @@ See how to contribute [here](https://github.com/bt3gl/Awesome_Entrepreneur/blob/
 * [Workana](https://www.workana.com/).
 
 
-## Freelancing
+### Freelancing
 
 * [Guru](https://www.guru.com/).
 * [Upwork](https://www.upwork.com/).
@@ -84,11 +85,10 @@ See how to contribute [here](https://github.com/bt3gl/Awesome_Entrepreneur/blob/
 * [Solid Gigs](https://solidgigs.com/).
 * [Writing gigs](https://www.contena.co/?ref=16060&subid=).
 
--------
 
-# Tools and Softwares
+### Tools and Softwares
 
-## Resumes
+#### Resumes
 
 * [Latex Resume builder](https://www.overleaf.com/login).
 
@@ -96,9 +96,9 @@ See how to contribute [here](https://github.com/bt3gl/Awesome_Entrepreneur/blob/
 
 ----
 
-# Lodging and Communal living
+# Living & Working
 
-## Nomad Communities
+### Nomad Communities
 
 * [Common](https://www.common.com/).
 * [Coworking in the sun](https://www.coworkinginthesun.com/).
@@ -116,7 +116,7 @@ See how to contribute [here](https://github.com/bt3gl/Awesome_Entrepreneur/blob/
 * [Curacao working](http://www.workfromcuracao.com/).
 * [World packers](https://www.worldpackers.com/).
 
-## Beyond Airbnb
+### Beyond Airbnb
 
 * [VRBO](https://www.vrbo.com/).
 * [20 Mission](http://www.20mission.com/).
@@ -139,9 +139,9 @@ See how to contribute [here](https://github.com/bt3gl/Awesome_Entrepreneur/blob/
 * [Orion Healing](https://www.orionhealing.com/).
 
 
-----
 
-# Coworking Spaces
+
+### Coworking Spaces
 
 * [Coworker](https://www.coworker.com/).
 * [Opendoor](https://opendoor.io/).
