@@ -139,12 +139,15 @@ See how to contribute [here](https://github.com/bt3gl/Awesome_Entrepreneur/blob/
 * [Orion Healing](https://www.orionhealing.com/).
 
 
-
-
 ### Coworking Spaces
 
 * [Coworker](https://www.coworker.com/).
 * [Opendoor](https://opendoor.io/).
+
+### Finding Internet Connection
+
+* [Skyroam](https://www.skyroam.com/wifi-pricing).
+* {Travel Wifi](https://travelwifi.com/)>
 
 
 -----
@@ -175,6 +178,40 @@ See how to contribute [here](https://github.com/bt3gl/Awesome_Entrepreneur/blob/
 ### Useful
 
 * [Sleeping in Airports](https://www.sleepinginairports.net/).
+
+
+------
+
+# Documents, Legal, Visas, Money
+
+### Insurances
+
+* [Insurance my trip](https://www.insuremytrip.com/).
+
+
+### Banks and Transfering money
+
+* [Monzo](https://monzo.com/).
+* [Revolut](https://www.revolut.com/en-US).
+* [Transfer Wise](https://transferwise.com/us).
+* [Toshl](https://toshl.com/).
+* [Quidco](https://www.quidco.com/).
+* [Neomy](https://neomy.io/).
+
+
+### Bitcoins
+
+* [Local bitcoins](https://localbitcoins.com/).
+
+
+----
+
+# Gears
+
+#### Backpacks
+
+* [Goruck](https://www.goruck.com/).
+* [Tortuga Backpacks](https://www.tortugabackpacks.com/).
 
 
 
