@@ -38,7 +38,7 @@ See how to contribute [here](https://github.com/bt3gl/Awesome_Entrepreneur/blob/
 * [Relocate](https://relocate.me/).
 * [No Fluff jobs](https://nofluffjobs.com/).
 * [Remote people](https://remotepeople.io/).
-* [2.5k Startups hiring Remotely in 2020](https://blog.remotive.io/2-500-companies-hiring-remotely-in-2020/).
+* [900+ Startups hiring Remotely in 2020](https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/edit#gid=1279011369).
 
 ### Remote Engineering Jobs
 
