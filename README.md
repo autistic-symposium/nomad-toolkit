@@ -147,6 +147,35 @@ See how to contribute [here](https://github.com/bt3gl/Awesome_Entrepreneur/blob/
 * [Opendoor](https://opendoor.io/).
 
 
+-----
+
+# Traveling
+
+### Find Flights
+
+* [Momondo](https://www.momondo.com/).
+* [Skyscanner](https://www.skyscanner.com/).
+* [Flyfree](https://www.fly4free.com/flight-deals/usa/).
+* [SecretFlying](https://www.secretflying.com/).
+* [FlyerTalk](https://www.flyertalk.com/).
+* [Fareness](https://www.fareness.com/).
+* [FightHub](https://www.flighthub.com/).
+* [Kayak](https://www.kayak.com/flights).
+* [Airwander](https://airwander.com/).
+* [App in Heair](https://www.appintheair.mobi/).
+* [Seat Guru](https://seatguru.com/).
+* [Hopper](https://www.hopper.com/).
+
+
+### Other Ways of Traveling
+
+* [Ride Cabin](https://www.ridecabin.com/).
+* [Kiwi](https://www.kiwi.com/us/).
+
+### Useful
+
+* [Sleeping in Airports](https://www.sleepinginairports.net/).
+
 
 
 --- 
