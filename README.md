@@ -147,7 +147,7 @@ See how to contribute [here](https://github.com/bt3gl/Awesome_Entrepreneur/blob/
 ### Finding Internet Connection
 
 * [Skyroam](https://www.skyroam.com/wifi-pricing).
-* {Travel Wifi](https://travelwifi.com/)>
+* [Travel Wifi](https://travelwifi.com/).
 
 
 -----
