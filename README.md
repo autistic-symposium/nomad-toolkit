@@ -40,7 +40,7 @@ See how to contribute [here](https://github.com/bt3gl/Awesome_Entrepreneur/blob/
 * [Remote people](https://remotepeople.io/).
 * [900+ Startups hiring Remotely in 2020](https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/edit#gid=1279011369).
 
-### Remote Engineering Jobs
+### Remote Tech Jobs
 
 * [Python jobs](https://www.python.org/jobs/).
 * [Python remote](https://www.remotepython.com/).
@@ -52,6 +52,7 @@ See how to contribute [here](https://github.com/bt3gl/Awesome_Entrepreneur/blob/
 * [DevOps Jobs](https://jobsfordevops.com/).
 * [Hacker X](https://hackerx.org/jobs/).
 * [AI and ML jobs](https://jobhunt.ai/).
+* [Tech Jobs list](https://github.com/remoteintech/remote-jobs).
 
 
 ### Job search platforms
