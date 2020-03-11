@@ -150,9 +150,6 @@ See how to contribute [here](https://github.com/bt3gl/Awesome_Entrepreneur/blob/
 * [Skyroam](https://www.skyroam.com/wifi-pricing).
 * [Travel Wifi](https://travelwifi.com/).
 
-### Health
-
-* [CDC travel notices](https://wwwnc.cdc.gov/travel/notices).
 
 -----
 
@@ -191,6 +188,11 @@ See how to contribute [here](https://github.com/bt3gl/Awesome_Entrepreneur/blob/
 ### Insurances
 
 * [Insurance my trip](https://www.insuremytrip.com/).
+
+
+### Health
+
+* [CDC travel notices](https://wwwnc.cdc.gov/travel/notices).
 
 
 ### Banks and Transfering money
