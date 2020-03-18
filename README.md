@@ -26,7 +26,7 @@ See how to contribute [here](https://github.com/bt3gl/Awesome_Entrepreneur/blob/
 * [Outsourcely](https://www.outsourcely.com/).
 * [Remotees](https://remotees.com/).
 * [Remote 4 me](https://remote4me.com/).
-* [Remote Awesome Jons](https://www.remotelyawesomejobs.com/).
+* [Remote Awesome Jobs](https://www.remotelyawesomejobs.com/).
 * [Werk](https://werk.co/).
 * [Telecomute jobs](https://100telecommutejobs.com/telejobs/).
 * [Workwe](https://workew.com/).
@@ -47,7 +47,7 @@ See how to contribute [here](https://github.com/bt3gl/Awesome_Entrepreneur/blob/
 * [Django jobs](https://djangojobs.net/jobs/).
 * [Data Science remote](https://dsremote.work/).
 * [Blockchain jobs](https://blocktribe.com/)
-* [More blockchain jons](https://cryptojobslist.com/).
+* [More blockchain jobs](https://cryptojobslist.com/).
 * [Even more blockchain jobs](https://crypto-job.com/).
 * [DevOps Jobs](https://jobsfordevops.com/).
 * [Hacker X](https://hackerx.org/jobs/).
