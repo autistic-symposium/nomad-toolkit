@@ -145,10 +145,12 @@ See how to contribute [here](https://github.com/bt3gl/Awesome_Entrepreneur/blob/
 * [Coworker](https://www.coworker.com/).
 * [Opendoor](https://opendoor.io/).
 
-### Finding Internet Connection
+### Finding Wifi
 
 * [Skyroam](https://www.skyroam.com/wifi-pricing).
 * [Travel Wifi](https://travelwifi.com/).
+* [Open Signal](https://www.opensignal.com/).
+* [Wifi map](https://www.wifimap.io/).
 
 
 -----
@@ -181,13 +183,20 @@ See how to contribute [here](https://github.com/bt3gl/Awesome_Entrepreneur/blob/
 * [Sleeping in Airports](https://www.sleepinginairports.net/).
 
 
+
+
 ------
 
 # Documents, Legal, Visas, Money
 
+### Visas
+
+* [Visa HQ](https://www.visahq.com/).
+
 ### Insurances
 
 * [Insurance my trip](https://www.insuremytrip.com/).
+* [Nomad Insurance](https://safetywing.com/nomad-insurance).
 
 
 ### Health
@@ -218,7 +227,23 @@ See how to contribute [here](https://github.com/bt3gl/Awesome_Entrepreneur/blob/
 
 * [Goruck](https://www.goruck.com/).
 * [Tortuga Backpacks](https://www.tortugabackpacks.com/).
+* [The Outbreaker Backpack](https://www.tortugabackpacks.com/products/outbreaker-travel-backpack).
 
+### Desk and Accessories
+
+* [The Root Stand](https://www.therooststand.com/).
+* [Portable chargers](https://www.anker.com/products/taxons/107/Portable%20Chargers).
+
+----
+
+# Planing a Trip
+
+* [Atlas Obscura](https://www.atlasobscura.com/).
+* [Triposo](https://www.triposo.com/gettheapp/).
+* [The Basetrip](https://www.thebasetrip.com/en).
+* [Cost of Living](https://www.numbeo.com/cost-of-living/).
+* [On the Grid](https://onthegrid.city/).
+* [Teleport](https://teleport.org/).
 
 
 --- 
