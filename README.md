@@ -145,7 +145,7 @@ See how to contribute [here](https://github.com/bt3gl/Awesome_Entrepreneur/blob/
 * [Coworker](https://www.coworker.com/).
 * [Opendoor](https://opendoor.io/).
 
-### Finding Wifi
+### Finding WIFI
 
 * [Skyroam](https://www.skyroam.com/wifi-pricing).
 * [Travel Wifi](https://travelwifi.com/).
@@ -157,7 +157,7 @@ See how to contribute [here](https://github.com/bt3gl/Awesome_Entrepreneur/blob/
 
 # Traveling
 
-### Find Flights
+### Finding Flights
 
 * [Momondo](https://www.momondo.com/).
 * [Skyscanner](https://www.skyscanner.com/).
