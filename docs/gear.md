@@ -53,6 +53,12 @@
 
 <br>
 
+#### hotspots
+
+* **[solis lite hotspot](https://soliswifi.co/products/solis-lite-hotspot)**
+
+<br>
+
 #### note on anonymity
 
 * **[what does grapheneod do about cellular tracking, interception and silent esim?](https://grapheneos.org/faq#cellular-tracking)**
