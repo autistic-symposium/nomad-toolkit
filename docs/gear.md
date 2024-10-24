@@ -61,4 +61,4 @@
 
 #### note on anonymity
 
-* **[what does grapheneod do about cellular tracking, interception and silent esim?](https://grapheneos.org/faq#cellular-tracking)**
+* **[what does grapheneos do about cellular tracking, interception and silent esim?](https://grapheneos.org/faq#cellular-tracking)**
