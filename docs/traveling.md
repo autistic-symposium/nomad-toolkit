@@ -1,8 +1,10 @@
-## resources for traveling
+## traveling
 
 <br>
 
 ### finding flights
+
+<br>
 
 * **[momondo](https://www.momondo.com/)**
 * **[skyscanner](https://www.skyscanner.com/)**
@@ -21,8 +23,11 @@
 
 <br>
 
+---
 
 ### planing a trip
+
+<br>
 
 * **[atlas obscura](https://www.atlasobscura.com/)**
 * **[triposo](https://www.triposo.com/gettheapp/)**
@@ -33,7 +38,10 @@
 
 <br>
 
+----
+
 ### useful
 
+<br>
+
 * **[sleeping in airports](https://www.sleepinginairports.net/)**
-* **[local and regional eSIMs for travelers](https://www.airalo.com/)**

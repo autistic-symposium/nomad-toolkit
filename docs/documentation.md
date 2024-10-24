@@ -1,5 +1,4 @@
-
-## resources for documentation
+## documentation
 
 <br>
 
@@ -10,8 +9,11 @@
 
 <br>
 
+----
 
 ### insurances
+
+<br>
 
 * **[insurance my trip](https://www.insuremytrip.com/)**
 * **[safetywing](https://safetywing.com/nomad-insurance)**
@@ -20,14 +22,19 @@
 
 <br>
 
+----
 
 ### taxes
+
+<br>
 
 * **[nomad tax](https://www.nomadtax.io/)**
 
 <br>
 
-### banks and transfering money
+--- 
+
+### transfering money
 
 * **[monzo](https://monzo.com/)**
 * **[revolut](https://www.revolut.com/en-US)**
@@ -35,9 +42,4 @@
 * **[toshl](https://toshl.com/)**
 * **[quidco](https://www.quidco.com/)**
 * **[neomy](https://neomy.io/)**
-
-<br>
-
-##### cryptocurrencies
-
 * **[local bitcoins](https://localbitcoins.com/)**

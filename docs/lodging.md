@@ -22,9 +22,10 @@
 
 <br>
 
+---
+
 ### beyond airbnb
 
-* [VRBO](https://www.vrbo.com/)
 * [20 mission](http://www.20mission.com/)
 * [agoda](https://www.agoda.com/)
 * [habyt](https://www.habyt.com/)
@@ -39,6 +40,8 @@
 
 
 <br>
+
+---
 
 ### spiritual
 
